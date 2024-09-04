@@ -4,7 +4,7 @@
 [Insérez ici une brève introduction à l'œuvre multimédia.]
 
 ## Présentation orale du document en ligne
-Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du document en ligne](https://example.com)
+Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du document en ligne](https://www.cinziac.net/setrisesun)
 
 ## Informations pertinentes à communiquer
 
