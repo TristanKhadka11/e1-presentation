@@ -12,7 +12,7 @@ Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du doc
 
 ### Qui ?
 - **Nom(s) de l'auteur ou des auteurs :** Cinzia Campolese
-- 
+- ![Image de l'œuvre](./images/6.jpg)
 - **Équipe de production :**
   - **Christophe Gregorio** – Supervision de la production et construction
   - **Camille Marois** – Conception du paysage
