@@ -2,6 +2,7 @@
 
 ## Description
 **Set-Rise-Sun** est une installation multimédia qui explore l'interaction entre la technologie, le temps et l'environnement. Composée d'un écran LCD modifié placé perpendiculairement à une surface d'eau dans un cadre naturel, l'œuvre permet aux spectateurs d'observer un Soleil virtuel évoluant du haut vers le bas de l'écran. L'écran, émettant uniquement de la lumière blanche, révèle son contenu uniquement à travers le reflet sur l'eau, qui sert de filtre polarisant naturel en raison du phénomène de l'angle de Brewster.
+![Image de l'œuvre](./images/1.png)
 
 ## Présentation orale du document en ligne
 Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du document en ligne](https://tristankhadka11.github.io/e1-presentation/#/)
@@ -10,6 +11,7 @@ Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du doc
 
 ### Qui ?
 - **Nom(s) de l'auteur ou des auteurs :** Cinzia Campolese
+- 
 - **Équipe de production :**
   - **Christophe Gregorio** – Supervision de la production et construction
   - **Camille Marois** – Conception du paysage
@@ -29,7 +31,7 @@ Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du doc
 
 ### Quoi ?
 
-  ![Image de l'œuvre](./images/1.png)
+  
   ![Image de l'œuvre](./images/2.jpg)
   ![Image de l'œuvre](./images/3.jpg)
   **Set-Rise-Sun** est une œuvre qui combine technologie et nature pour explorer les implications de la gestion du temps par l'homme. Le soleil virtuel visible uniquement via le reflet sur l'eau invite les spectateurs à réfléchir sur l'impact de la technologie sur notre perception du temps et notre relation avec l'environnement.
