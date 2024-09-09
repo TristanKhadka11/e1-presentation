@@ -28,7 +28,7 @@ Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du doc
   - Village numérique de MUTEK
 
 ### Quoi ?
-- **Description générale :**
+
   ![Image de l'œuvre](./images/1.png)
   ![Image de l'œuvre](./images/2.jpg)
   ![Image de l'œuvre](./images/3.jpg)
