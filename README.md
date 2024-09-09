@@ -4,7 +4,7 @@
 **Set-Rise-Sun** est une installation multimédia qui explore l'interaction entre la technologie, le temps et l'environnement. Composée d'un écran LCD modifié placé perpendiculairement à une surface d'eau dans un cadre naturel, l'œuvre permet aux spectateurs d'observer un Soleil virtuel évoluant du haut vers le bas de l'écran. L'écran, émettant uniquement de la lumière blanche, révèle son contenu uniquement à travers le reflet sur l'eau, qui sert de filtre polarisant naturel en raison du phénomène de l'angle de Brewster.
 
 ## Présentation orale du document en ligne
-Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du document en ligne](https://www.cinziac.net/setrisesun)
+Pour voir la présentation orale en ligne, veuillez suivre ce lien : [URL du document en ligne](https://tristankhadka11.github.io/e1-presentation/#/)
 
 ## Informations pertinentes à communiquer
 
